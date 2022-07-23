@@ -1,8 +1,8 @@
-package io.github.ultimateboomer.smoothboot.mixin.client;
+package com.abdelaziz.smoothboot.mixin.client;
 
 import com.mojang.authlib.GameProfileRepository;
 import com.mojang.authlib.minecraft.MinecraftSessionService;
-import io.github.ultimateboomer.smoothboot.SmoothBoot;
+import com.abdelaziz.smoothboot.SmoothBoot;
 import net.minecraft.client.MinecraftClient;
 import net.minecraft.resource.ResourcePackManager;
 import net.minecraft.server.SaveLoader;
